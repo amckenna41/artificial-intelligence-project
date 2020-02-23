@@ -13,9 +13,7 @@ training was to be able to successfully classify new images tas the correct type
 
 Languages Used:
 In this project I mainly used R but for the intial image manipulation and creation I used Python. To intially create the 
-dataset I had to convert the raw images of the objects into matrices and dataframes which I used the Python Pandas framework
-for. The remainder of the project inclduing feature engineering, statistic analysis, machine learning modelling and 
-classification was all done in R. 
+dataset I had to convert the raw images of the objects into matrices and dataframes and export to CSV files which I used the Python Pandas framework for. The remainder of the project inclduing feature engineering, statistic analysis, machine learning modelling and classification was all done in R. 
 
 Models Used:
 I created a 
